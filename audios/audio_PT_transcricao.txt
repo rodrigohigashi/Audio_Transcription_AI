@@ -1,0 +1,9 @@
+[0.00s - 8.92s]  Olá, este áudio é uma demonstração criada por mim para acompanhar o código que desenvolvi
+[8.92s - 12.44s]  para realizar a transcrição de áudio.
+[12.44s - 17.56s]  Como este áudio foi produzido por mim, não há nenhum problema relacionado a direitos
+[17.56s - 18.92s]  autorais.
+[18.92s - 24.64s]  Gostaria de deixar claro que o propósito deste código é exclusivamente para uso pessoal
+[24.64s - 26.56s]  e fins didáticos.
+[26.56s - 33.04s]  O áudio original que utilizei para este teste não está incluído neste projeto para respeitar
+[33.04s - 34.80s]  os direitos autorais.
+[34.80s - 36.08s]  Obrigado por entender.
